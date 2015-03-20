@@ -11,3 +11,6 @@ plot(y,x,"s",lwd=4,col="red",xlab="Argument",ylab="Function value",main="Functio
 x<-c(1:10) #c=range 1-10
 
 Thanks :)
+
+
+Hello :)
